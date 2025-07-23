@@ -1,0 +1,11 @@
+{
+  "name": "gps-neo6m",
+  "author": "Ade Hikmat Pauji Ridwan",
+  "pins": [
+    "VCC",
+    "GND",
+    "RX",
+    "TX"
+  ],
+  "controls": []
+}
